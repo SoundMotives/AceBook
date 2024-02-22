@@ -1,6 +1,6 @@
 # Acebook Group Project
 
-Acebook was a Makers Group project working on an existing application, a Facebook clone. 
+Acebook was a Makers group project working on an existing application, a Facebook clone. 
 
 Below is the documentation provided for the starter project, which will also work for you, should you want to run the program locally.
 
