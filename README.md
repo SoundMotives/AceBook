@@ -1,6 +1,8 @@
-# Acebook
+# Acebook Group Project
 
-In this project, you are tasked with working on an existing application. A significant part of the challenge will be to familiarise yourself with the codebase you've inherited, as you work to **improve and extend** it.
+Acebook was a Makers Group project working on an existing application, a Facebook clone. 
+
+Below is the documentation provided for the starter project, which will also work for you, should you want to run the program locally.
 
 ## Documentation
 
